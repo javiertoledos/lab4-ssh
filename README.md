@@ -1,4 +1,4 @@
-# Laboratorio 4 - SSH
+# Laboratorio - SSH
 
 El laboratorio consiste en conectarse a un servidor de ssh y configurar
 autenticación por llave y utilizar sftp para transferir un archivo
